@@ -9,6 +9,6 @@ public class Add
       int mul=num1*2;
 
       System.out.println("Sum of two numbers: "+sum);
-      System.out.println("Multiplication of two numbers: "+mul)
+      System.out.println("Multiplication of two numbers: "+mul);
     }
   }
